@@ -1,0 +1,50 @@
+<library>
+    <book>
+        <title> Штучний інтелект </title>
+        <author> Глибовець М. М. </author>
+        <author> Олецький О. В. </author>
+        <publisher> Академія </publisher>
+        <year> 2002 </year>
+        <ISBN>
+            966-518-153-X
+        </ISBN>
+    </book>
+    <book>
+        <title> Дюна. Певрая трилогия </title>
+        <author> Фрэнк Герберт </author>
+        <publisher> АСТ </publisher>
+        <year> 2017 </year>
+        <ISBN>
+            978-5-17-087261-9
+        </ISBN>
+    </book>
+    <book>
+        <title> The Holy Bible </title>
+        <author> God </author>
+        <publisher>  HarperCollins Publishers </publisher>
+        <year> 2001 </year>
+        <ISBN>
+            9780007103072
+        </ISBN>
+    </book>
+    <book>
+        <title> Інтелектуальні мережі </title>
+        <author> Глибовець А. М. </author>
+        <author> Глибовець М. М. </author>
+        <author> Поляков М. В. </author>
+        <publisher>  Дніпропетровськ </publisher>
+        <year> 2014 </year>
+        <ISBN>
+            978-617-7068-26-5
+        </ISBN>
+    </book>
+    <book>
+        <title> 451° по Фаренгейту </title>
+        <author> Рей Бредбері </author>
+        <publisher>  Форс </publisher>
+        <year> 2019 </year>
+        <ISBN>
+            978-617-7764-15-0
+        </ISBN>
+    </book>
+</library>
